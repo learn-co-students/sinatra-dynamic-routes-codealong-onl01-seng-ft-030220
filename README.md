@@ -1,5 +1,5 @@
 # Dynamic Routes in Sinatra
-
+#
 ## Overview
 
 In this code-along lesson, we'll learn why dynamic routes are powerful and how
